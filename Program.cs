@@ -15,6 +15,7 @@
             Nada.Address = "123 Main St, Alex, Egypt";
             Nada.Department = "Data Science";
             Console.WriteLine("Employees Information:");
+            Console.WriteLine("=================================");
             Console.WriteLine();
             Nada.DisplayEmployeeInfo();
             Console.WriteLine();
