@@ -67,6 +67,7 @@ namespace Depi_c__Task4
             Console.WriteLine($"Address: {Address}");
             Console.WriteLine($"Department: {Department}");
         }
+        
 
     }
 }
